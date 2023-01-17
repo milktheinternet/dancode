@@ -1,6 +1,7 @@
 # dancode
 Password encoding/decoding for all files. (lossless)
-+ usage
+
+# usage
 ENCODING
 ________
 Import the module and use: dancode.dancode('foo/bar/file.xxx')
